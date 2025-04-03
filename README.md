@@ -17,7 +17,9 @@ d. **Notion Agent**: This agent is dedicated to managing Notion actions, such as
 e. **Usual Calendar Agent**: This agent is dedicated to managing events in my main calendar.
 
 ########
+
 **Supabase RAG Al Agent**: It is dedicated to creating a registration agent that looks for data in Supabase.
 
 ########
+
 **Assistant boutique**: It is a workflow focused on demonstrating how to vectorize a Google Doc file that describing a given shop and create a chatbot that can answer visitors' questions regarding information related to the shop, such as how many items are remaining, the address of the shop, or the schedule for when the shop is open.
